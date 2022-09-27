@@ -1,10 +1,10 @@
 # rsschool-cv
 
-********* 
+
 
 ## Irina Chernova
 
-********* 
+
 
 ### Contacts
 
@@ -13,7 +13,7 @@
 * Location: Russia, Moscow
 * Email: irina.timshina1994@gmail.com
 * Telegram: @Hiiminsane
-* Github: [ichernova0608] (https://github.com/ichernova0608)
+* Github: [ichernova0608] (https://github.com/ichernova0608/)
 * LinkedIn: https://www.linkedin.com/in/irina-chernova-571219207/
 
 ********* 
