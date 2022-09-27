@@ -14,7 +14,7 @@
 * Email: irina.timshina1994@gmail.com
 * Telegram: @Hiiminsane
 * Github: <code>[ichernova0608](https://github.com/ichernova0608) </code>
-* LinkedIn: <code>[Irina Chernova] (https://www.linkedin.com/in/irina-chernova-571219207/) </code>
+* LinkedIn: <code>[Irina Chernova](https://www.linkedin.com/in/irina-chernova-571219207/) </code>
 
 
 
